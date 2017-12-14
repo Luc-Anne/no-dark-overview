@@ -1,0 +1,11 @@
+{
+  "description": "Let brightness of overview like it is when you are on desktop : no dark effect.",
+  "name": "No Dark Overview",
+  "original-author": "freeroot",
+  "shell-version": [
+    "3.26"
+  ],
+  "url": "https://github.com/freeroot/no-dark-overview",
+  "uuid": "no-dark-overview@freeroot",
+  "version": 1
+}
