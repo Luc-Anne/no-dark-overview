@@ -7,7 +7,7 @@ function init() {
 }
 
 function enable() {
-	Main.overview._shadeBackgrounds = Main.overview._unshadeBackgrounds;
+	Main.overview._shadeBackgrounds = function() {};
 }
 
 function disable() {
